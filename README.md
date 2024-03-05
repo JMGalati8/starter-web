@@ -17,3 +17,8 @@ This is a simple web porject deployment can be local
 ## How To Contribute
 
 Sample website with plenty of files for demos
+
+
+### Copyright
+
+2014 git.training
