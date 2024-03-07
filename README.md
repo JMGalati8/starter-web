@@ -1,7 +1,7 @@
 # Starter Web Project
 
 This is a simple website project for git
-Another line for example
+Another line for example, then more changes from my-feature branch
 
 ## Introduction
 
