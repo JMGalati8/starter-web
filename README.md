@@ -1,6 +1,7 @@
 # Starter Web Project
 
 This is a simple website project for git
+Another line for example
 
 ## Introduction
 
