@@ -23,3 +23,4 @@ Please fork this and then do pull requests
 ### Copyright
 
 2014 git.training
+All rights reserver
