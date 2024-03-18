@@ -2,6 +2,7 @@
 
 This is a simple website project for git
 Another line for example, then more changes from my-feature branch
+Updated a line
 
 ## Introduction
 
